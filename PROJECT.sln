@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "PROJECT\server.csproj", "{98113D7B-BE59-402C-9D30-324101071CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{75C1E823-9756-410B-904C-0D6AC5FFC993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pc_remote", "pc_remote\pc_remote.csproj", "{B33C2AD4-8ADD-4E54-B3FF-480C8769C724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98113D7B-BE59-402C-9D30-324101071CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98113D7B-BE59-402C-9D30-324101071CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98113D7B-BE59-402C-9D30-324101071CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98113D7B-BE59-402C-9D30-324101071CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C1E823-9756-410B-904C-0D6AC5FFC993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C1E823-9756-410B-904C-0D6AC5FFC993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C1E823-9756-410B-904C-0D6AC5FFC993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C1E823-9756-410B-904C-0D6AC5FFC993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33C2AD4-8ADD-4E54-B3FF-480C8769C724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33C2AD4-8ADD-4E54-B3FF-480C8769C724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33C2AD4-8ADD-4E54-B3FF-480C8769C724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33C2AD4-8ADD-4E54-B3FF-480C8769C724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEF8207F-9768-4605-8A48-A265E8E30868}
+	EndGlobalSection
+EndGlobal
